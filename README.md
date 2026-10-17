@@ -60,7 +60,7 @@ Os testes usam os exemplos oficiais dos manuais do Banco Central. Se o seu códi
 
 - Kit montado com a ajuda de IA (Claude, da Anthropic).
 - Vetores de teste retirados dos manuais do Banco Central.
-- Implementação de referência: [pix-por-dentro](LINK_DO_SEU_REPOSITORIO)
+- Implementação de referência: [pix-por-dentro](https://github.com/fbguimaraes/pix-por-dentro.git)
 
 ## Fontes
 
